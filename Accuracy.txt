@@ -1,0 +1,10 @@
+Music Genre Classification Using Convolutional Neural Network. 
+
+Algorithm / Model Used: Artificial Neural Networks Model(ANN Model).
+
+Training Accuracy:97%.
+Validation Accuracy: 89%.
+
+
+
+
